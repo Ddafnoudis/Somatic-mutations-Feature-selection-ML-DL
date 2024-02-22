@@ -1,6 +1,6 @@
 # Classification of somatic mutation data using Machine Learning and Deep Learning
 Interpretation of somatic mutations in Acute Myeloid Leukemia using Feature Selection Techniques and Machine Learning.
-We explore different feature selection techniques and machine learning / deep learning algorithms.
+We explore different filtering feature selection techniques and machine learning / deep learning algorithms.
 
 ### data folder
 Four datasets from cBioportal were downloaded as a maf files.
